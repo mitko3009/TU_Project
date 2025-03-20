@@ -1,9 +1,9 @@
-﻿using Project1.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Welcome.Model;
 
-namespace Project1.ViewModel
+namespace Welcome.ViewModel
 {
     public class UserViewModel
     {

@@ -1,9 +1,9 @@
 ﻿using DataLayer.Database;
-using Project1.Model;
 using System.Net.Security;
 using System;
 using DataLayer.Model;
 using System.Linq;
+using Welcome.Model;
 
 namespace DataLayer
 {

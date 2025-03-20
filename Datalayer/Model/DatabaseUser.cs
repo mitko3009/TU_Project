@@ -2,10 +2,10 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
-using Project1.Model;
 using System.Collections.Generic;
 using System;
 using System.Linq;
+using Welcome.Model;
 
 namespace DataLayer.Model
 {

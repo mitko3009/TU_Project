@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.35821.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1", "Project1\Project1.csproj", "{EDB435F6-D109-4D39-9E04-79D5A6F9DBD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Welcome", "Project1\Welcome.csproj", "{EDB435F6-D109-4D39-9E04-79D5A6F9DBD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "..\Project2\Project2\Project2.csproj", "{FD46123F-BBE4-4128-96F6-1B3842AE12DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeExtended", "..\Project2\Project2\WelcomeExtended.csproj", "{FD46123F-BBE4-4128-96F6-1B3842AE12DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "Datalayer\DataLayer.csproj", "{8D254724-4D00-4DCE-B7B0-210323A61EB9}"
 EndProject

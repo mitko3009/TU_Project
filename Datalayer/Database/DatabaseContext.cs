@@ -1,9 +1,9 @@
 ﻿using DataLayer.Model;
 using Microsoft.EntityFrameworkCore;
-using Project1.Model;
 using System;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.IO;
+using Welcome.Model;
 
 namespace DataLayer.Database
 {

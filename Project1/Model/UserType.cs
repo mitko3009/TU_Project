@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Project1.Model
+namespace Welcome.Model
 {
     public enum UserType
     {

@@ -1,8 +1,9 @@
-﻿using Project1.Model;
-using Project1.ViewModel;
-using System;
+﻿using System;
+using Welcome.Model;
+using Welcome.View;
+using Welcome.ViewModel;
 
-namespace Project1
+namespace Welcome
 {
     class Program
     {

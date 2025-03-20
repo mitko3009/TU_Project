@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Project2\Project2\Project2.csproj" />
-    <ProjectReference Include="..\Project1\Project1.csproj" />
+    <ProjectReference Include="..\..\Project2\Project2\WelcomeExtended.csproj" />
+    <ProjectReference Include="..\Project1\Welcome.csproj" />
   </ItemGroup>
 
   <ItemGroup>

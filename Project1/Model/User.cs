@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Project1.Model
+namespace Welcome.Model
 {
     public class User
     {
